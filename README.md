@@ -4,5 +4,9 @@
 
 ## [LangChain for LLM Application](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
 
+## [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+
+## [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
+
 
 
